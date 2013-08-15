@@ -297,7 +297,7 @@
     <item media-type="application/xhtml+xml" id="m42718" href="content/m42718.xhtml"/>
     <item media-type="application/xhtml+xml" id="m42720" href="content/m42720.xhtml"/>
     <item media-type="application/xhtml+xml" id="m42955" href="content/m42955.xhtml"/>
-  </manifest>
+  <item href="content/c9fd334f-039b-4797-ba97-a879b7135f42" id="content/c9fd334f-039b-4797-ba97-a879b7135f42" media-type="application/xhtml+xml"/></manifest>
   <spine>
     <itemref linear="no" idref="toc"/>
     <itemref linear="yes" idref="m42033"/>
