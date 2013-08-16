@@ -269,7 +269,7 @@
     <item media-type="application/xhtml+xml" id="m44898" href="content/m44898.xhtml"/>
     <item media-type="application/xhtml+xml" id="m45849" href="content/m45849.xhtml"/>
     <item media-type="application/xhtml+xml" id="m46078" href="content/m46078.xhtml"/>
-  <item href="content/c9fd334f-039b-4797-ba97-a879b7135f42" id="content/c9fd334f-039b-4797-ba97-a879b7135f42" media-type="application/xhtml+xml"/><item href="content/e169f64e-4e00-494f-b6d7-aa953b5dd0ca" id="content/e169f64e-4e00-494f-b6d7-aa953b5dd0ca" media-type="application/xhtml+xml"/></manifest>
+  <item href="content/c9fd334f-039b-4797-ba97-a879b7135f42" id="content/c9fd334f-039b-4797-ba97-a879b7135f42" media-type="application/xhtml+xml"/><item href="content/e169f64e-4e00-494f-b6d7-aa953b5dd0ca" id="content/e169f64e-4e00-494f-b6d7-aa953b5dd0ca" media-type="application/xhtml+xml"/><item href="resources/c480379544e3db71d8024566af94f70f725425c1.png" id="resources/c480379544e3db71d8024566af94f70f725425c1.png" media-type="image/png"/></manifest>
   <spine>
     <itemref linear="no" idref="toc"/>
     <itemref linear="yes" idref="m44386"/>
